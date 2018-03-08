@@ -13,6 +13,9 @@ namespace ODataServer.Models
         public string Language { get; set; }
         public string TypeOfMovie { get; set; }
         public int Time { get; set; }
-       
+
+        public int Time { get; set; }
+        public int Time { get; set; }
+
     }
 }
